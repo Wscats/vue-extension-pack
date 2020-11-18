@@ -17,7 +17,7 @@ A useful extension collection to start developing with Vue in Visual Studio Code
 
 ## Relevant Links
 
-- [Github](https://github.com/wscats/vue-extensionpack)
+- [Vue Extension Pack Github](https://github.com/Wscats/vue-extension-pack)
 - [Vue Extension Pack Marketplace](https://marketplace.visualstudio.com/items?itemName=Wscats.vue-extensionpack)
 
 **Enjoy!**

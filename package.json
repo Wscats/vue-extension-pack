@@ -1,8 +1,8 @@
 {
     "name": "vue-extensionpack",
     "displayName": "Vue Extension Pack",
-    "description": "Popular VS Code extensions for Vue.js development.",
-    "version": "0.0.1",
+    "description": "🚚Popular VS Code extensions for Vue.js development.",
+    "version": "0.0.3",
     "galleryBanner": {
         "color": "#58bc58",
         "theme": "dark"
@@ -10,11 +10,11 @@
     "publisher": "Wscats",
     "icon": "icon.png",
     "repository": {
-        "url": "https://github.com/wscats/vue-extensionpack"
+        "url": "https://github.com/Wscats/vue-extension-pack"
     },
-    "homepage": "https://github.com/wscats/vue-extensionpack",
+    "homepage": "https://github.com/Wscats/vue-extension-pack",
     "bugs": {
-        "url": "https://github.com/wscats/vue-extensionpack/issues"
+        "url": "https://github.com/Wscats/vue-extension-pack/issues"
     },
     "keywords": [
         "vue",
@@ -24,7 +24,10 @@
         "eslint",
         "javascript",
         "format",
-        "vutur"
+        "vutur",
+        "snippets",
+        "intellisense",
+        "git"
     ],
     "scripts": {
         "build": "vsce package"
