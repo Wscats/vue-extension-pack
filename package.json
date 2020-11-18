@@ -1,0 +1,50 @@
+{
+    "name": "vue-extensionpack",
+    "displayName": "Vue Extension Pack",
+    "description": "Popular VS Code extensions for Vue.js development.",
+    "version": "0.0.1",
+    "galleryBanner": {
+        "color": "#58bc58",
+        "theme": "dark"
+    },
+    "publisher": "Wscats",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/wscats/vue-extensionpack"
+    },
+    "homepage": "https://github.com/wscats/vue-extensionpack",
+    "bugs": {
+        "url": "https://github.com/wscats/vue-extensionpack/issues"
+    },
+    "keywords": [
+        "vue",
+        "vuejs",
+        "extension pack",
+        "vue extension collection",
+        "eslint",
+        "javascript",
+        "format",
+        "vutur"
+    ],
+    "scripts": {
+        "build": "vsce package"
+    },
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "octref.vetur",
+        "Wscats.vue",
+        "xabikos.JavaScriptSnippets",
+        "CoenraadS.bracket-pair-colorizer",
+        "Wscats.search",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "christian-kohler.npm-intellisense",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}
