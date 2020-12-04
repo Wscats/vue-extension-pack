@@ -2,7 +2,7 @@
     "name": "vue-extensionpack",
     "displayName": "Vue Extension Pack",
     "description": "🚚Popular VS Code extensions for Vue.js development.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "galleryBanner": {
         "color": "#58bc58",
         "theme": "dark"
@@ -41,7 +41,7 @@
     "extensionPack": [
         "octref.vetur",
         "Wscats.vue",
-        "xabikos.JavaScriptSnippets",
+        "wscats.html-snippets",
         "CoenraadS.bracket-pair-colorizer",
         "Wscats.search",
         "dbaeumer.vscode-eslint",
