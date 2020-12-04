@@ -6,7 +6,7 @@ A useful extension collection to start developing with Vue in Visual Studio Code
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VS Code.
 - [Vue 3 Snippets Highlight Formatters](https://marketplace.visualstudio.com/items?itemName=Wscats.vue) - Vue 2 && 3 Code Snippets, Syntax Highlight And Code Formatters Into Visual Studio Code.
-- [HTML/CSS/JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - HTML/CSS/JavaScript/Jade/Pug/Less/Sass/Stylus/ES6 Snippets Support.
+- [HTML/CSS/JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=Wscats.html-snippets) - HTML/CSS/JavaScript/Jade/Pug/Less/Sass/Stylus/ES6 Snippets Support.
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets.
 - [Search Hero - Google/Bing/Baidu/Wiki/Yahoo/Github/Npm Engine](https://marketplace.visualstudio.com/items?itemName=Wscats.search) - 🔍Support search and translate online.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.

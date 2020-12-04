@@ -2,7 +2,7 @@
     "name": "vue-extensionpack",
     "displayName": "Vue Extension Pack",
     "description": "🚚Popular VS Code extensions for Vue.js development.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "galleryBanner": {
         "color": "#58bc58",
         "theme": "dark"
